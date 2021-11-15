@@ -1,1 +1,1 @@
-# Text-to-video
+First I created common surface and divided the surface into two parts for image and text . Then pasted the image in left, right side combination.Then added the text on image using pangocairocffi. Finally create a video using image.
